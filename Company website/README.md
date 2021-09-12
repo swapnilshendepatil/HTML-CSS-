@@ -3,7 +3,7 @@
 ### Technical Stacks Used :
 HTML, CSS
 
-### Hosted Link (Github) : 
+### Link (Github) : 
 https://github.com/swapnilshendepatil/HTML-CSS-/tree/main/Company%20website
 
 ### Hosted Link (Netlify) :
